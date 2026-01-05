@@ -1,4 +1,3 @@
 # project-
-this is my first git repository .
-<br>
+calculator-project
 Author - Yogita sinha 
